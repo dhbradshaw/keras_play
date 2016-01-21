@@ -1,2 +1,5 @@
-# keras_play
-playing with Keras
+# Keras Play
+Playing with Keras
+
+https://github.com/fchollet/keras
+
