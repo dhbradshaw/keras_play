@@ -16,7 +16,9 @@ Here's one more interesting link:
 
 https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 
-.
+Okay, one more.  Apparently TensorFlow has a nice general introduction:
+
+https://www.tensorflow.org/versions/master/tutorials/
 
 ## 2016-01-21
 It looks like I need to back way up before I can do much that's interesting.  So what I'm going to do is do some reading.  I'll keep a log here just to stay accountable.  The reading list is first the following two links:
