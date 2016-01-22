@@ -1,3 +1,9 @@
+## 2016-01-22
+I think it's appropriate to be a little flexible on your exact plans in the beginning of an endeavor.  Just like the multiplier to the input of a softmax function can be small in the beginning and larger later, it's worth noting that you are uncertain at the beginning.  Anyway, I just found a udacity course at 
+
+https://udacity.com/course/deep-learning--ud730
+
+
 ## 2016-01-21
 It looks like I need to back way up before I can do much that's interesting.  So what I'm going to do is do some reading.  I'll keep a log here just to stay accountable.  The reading list is first the following two links:
 
