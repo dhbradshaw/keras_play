@@ -3,6 +3,16 @@ I think it's appropriate to be a little flexible on your exact plans in the begi
 
 https://udacity.com/course/deep-learning--ud730
 
+For that I got scipy going on my local computer using 
+
+```
+$ sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
+```
+as described here:
+
+http://www.scipy.org/install.html
+
+.
 
 ## 2016-01-21
 It looks like I need to back way up before I can do much that's interesting.  So what I'm going to do is do some reading.  I'll keep a log here just to stay accountable.  The reading list is first the following two links:
