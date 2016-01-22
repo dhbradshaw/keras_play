@@ -12,6 +12,10 @@ as described here:
 
 http://www.scipy.org/install.html
 
+Here's one more interesting link:
+
+https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+
 .
 
 ## 2016-01-21
