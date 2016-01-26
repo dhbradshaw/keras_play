@@ -1,3 +1,10 @@
+## 2016-01-26
+To work on leaf, I guess I need to become conversant with rust.  
+
+Here's my current place in the rust book:
+
+https://doc.rust-lang.org/book/guessing-game.html
+
 ## 2016-01-25
 There's an interesting project centered around machine learning using rust:
 
