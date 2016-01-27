@@ -1,3 +1,9 @@
+## 2016-01-27
+Still on the guessing game tutorial.  But I got rust syntax highlighting and running rust code set up on the atom text editor.
+(for the latter, check out 
+
+https://atom.io/packages/script
+)
 ## 2016-01-26
 To work on leaf, I guess I need to become conversant with rust.  
 
