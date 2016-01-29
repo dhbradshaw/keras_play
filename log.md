@@ -5,6 +5,8 @@ Completed guessing game tutorial.  Conclusions so far:
 2. I like it.
 3. I really need tab completion.  Every new method and class property comes as a big surprise.
 
+https://github.com/phildawes/racer
+
 ## 2016-01-28
 Still on the guessing game tutorial.  There is a lot to learn here.
 
