@@ -1,3 +1,6 @@
+## 2016-01-28
+Still on the guessing game tutorial.  There is a lot to learn here.
+
 ## 2016-01-27
 Still on the guessing game tutorial.  But I got rust syntax highlighting and running rust code set up on the atom text editor.
 (for the latter, check out 
