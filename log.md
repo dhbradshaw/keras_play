@@ -1,3 +1,14 @@
+## 2016-01-30
+Working through dining philosophers.  I don't understand this bit of code yet:
+
+```
+let handles: Vec<_> = philosophers.into_iter().map(|p| {
+    thread::spawn(move || {
+        p.eat();
+    })
+}).collect();
+```
+
 ## 2016-01-29
 Completed guessing game tutorial.  Conclusions so far:
 
