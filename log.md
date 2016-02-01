@@ -1,3 +1,10 @@
+## 2016-02-01
+I'll probably study dining philosophers for one more 30m session.  
+
+The key to the code below is closures.  In brief, handles is a vector of elements which all share a type that Rust has to figure out (so it's marked with the underscore).  That vector is created from the philosophers vector.  First the vector is turned into an iterable.  Map is called on the iterable, and map takes a closure.  The closure gets the variable p and in it a thread is spawned.  The thread itself takes a closure, only this one takes ownership of the philosopher (using the move keyword).  The philosopher's method 'eat' is called inside the thread.  Collect grabs the output of the iterable, and needs some kind of collection to put it in.  Here it sees that we want a vector, so that's the collection type that it delivers.
+
+
+
 ## 2016-01-30
 Working through dining philosophers.  I don't understand this bit of code yet:
 
