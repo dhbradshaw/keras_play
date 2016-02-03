@@ -1,3 +1,9 @@
+## 2-16-02-03
+Now here:
+
+https://doc.rust-lang.org/book/primitive-types.html
+
+
 ## 2016-02-02
 Reviewed dining philosophers, read the section on embedding (which has a nice second reference to the thread spawning idiom below) and moved on to the syntax section.  Just got a first taste of the use of patterns in let statements.
 
