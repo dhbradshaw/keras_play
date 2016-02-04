@@ -1,0 +1,6 @@
+[package]
+name = "dna_2_bytes"
+version = "0.1.0"
+authors = ["Douglas H. Bradshaw <redacted@fornow.com>"]
+
+[dependencies]
