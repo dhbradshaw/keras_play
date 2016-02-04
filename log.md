@@ -1,4 +1,9 @@
-## 2-16-02-03
+## 2016-02-04
+Now here:
+
+https://doc.rust-lang.org/book/ownership.html
+
+## 2016-02-03
 Now here:
 
 https://doc.rust-lang.org/book/primitive-types.html
