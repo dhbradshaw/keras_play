@@ -1,3 +1,7 @@
+## 2016-02-05
+
+Just made it through the sections on ownership and on the stack and the heap.
+
 ## 2016-02-04
 Now here:
 
