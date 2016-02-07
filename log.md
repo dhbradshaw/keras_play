@@ -1,3 +1,6 @@
+## 2016-02-06
+Reviewed ownership and got ready to learn about borrowing.
+
 ## 2016-02-05
 
 Just made it through the sections on ownership and on the stack and the heap.
