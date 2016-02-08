@@ -1,3 +1,6 @@
+## 2016-02-08
+Read section on borrowing
+
 ## 2016-02-06
 Reviewed ownership and got ready to learn about borrowing.
 
