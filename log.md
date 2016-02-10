@@ -1,3 +1,6 @@
+## 2016-02-09
+Spent a tiny bit of time learning about lifetimes syntax.  The syntax is simple enough.  Knowing when you need explicit lifetimes is beyond me right now.
+
 ## 2016-02-08
 Read section on borrowing
 
