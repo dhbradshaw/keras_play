@@ -1,3 +1,12 @@
+## 2016-02-09
+Spent a tiny bit of time learning about lifetimes syntax.  The syntax is simple enough.  Knowing when you need explicit lifetimes is beyond me right now.
+
+## 2016-02-08
+Read section on borrowing
+
+## 2016-02-06
+Reviewed ownership and got ready to learn about borrowing.
+
 ## 2016-02-05
 
 Just made it through the sections on ownership and on the stack and the heap.
