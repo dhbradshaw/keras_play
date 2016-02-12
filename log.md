@@ -1,3 +1,6 @@
+## 2016-02-11
+Read up on mutability
+
 ## 2016-02-10
 Read more on lifetimes.  I'm still not sure how to make use of explicit lifetimes.
 
