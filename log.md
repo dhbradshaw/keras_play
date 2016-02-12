@@ -1,3 +1,8 @@
+## 2016-02-12
+Here is the most important concept in rust: linking the functionality of crates and modules together.  So today I read through most of the nice tutorial on that subject:
+
+https://doc.rust-lang.org/book/crates-and-modules.html
+
 ## 2016-02-11
 Read up on mutability
 
