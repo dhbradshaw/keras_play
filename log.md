@@ -1,3 +1,6 @@
+## 2016-02-13
+Added a library that needs to be configured.
+
 ## 2016-02-12
 Here is the most important concept in rust: linking the functionality of crates and modules together.  So today I read through most of the nice tutorial on that subject:
 
@@ -68,7 +71,7 @@ Still on the guessing game tutorial.  There is a lot to learn here.
 
 ## 2016-01-27
 Still on the guessing game tutorial.  But I got rust syntax highlighting and running rust code set up on the atom text editor.
-(for the latter, check out 
+(for the latter, check out
 
 https://atom.io/packages/script
 )
@@ -85,11 +88,11 @@ There's an interesting project centered around machine learning using rust:
 https://github.com/autumnai/leaf
 
 ## 2016-01-22
-I think it's appropriate to be a little flexible on your exact plans in the beginning of an endeavor.  Just like the multiplier to the input of a softmax function can be small in the beginning and larger later, it's worth noting that you are uncertain at the beginning.  Anyway, I just found a free deep learning cource from Udacity at 
+I think it's appropriate to be a little flexible on your exact plans in the beginning of an endeavor.  Just like the multiplier to the input of a softmax function can be small in the beginning and larger later, it's worth noting that you are uncertain at the beginning.  Anyway, I just found a free deep learning cource from Udacity at
 
 https://udacity.com/course/deep-learning--ud730
 
-For that I got scipy going on my local computer using 
+For that I got scipy going on my local computer using
 
 ```
 $ sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
