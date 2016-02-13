@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Douglas H. Bradshaw <redacted@fornow.com>"]
 
 [dependencies]
+dna_2_bytes_lib = { path = "dna_2_bytes_lib" }
