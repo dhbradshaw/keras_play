@@ -1,3 +1,9 @@
+## 2016-02-15
+
+I got a working rust module system by finding one rather than working through the tutorial.  Here you go:
+
+https://github.com/steveklabnik/phrases
+
 ## 2016-02-13
 Added a library that needs to be configured.
 
