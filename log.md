@@ -1,3 +1,7 @@
+## 2016-02-16
+
+Spent the 20 minutes just configuring Atom for rust.  Stuck configuring Racer, but have syntax highlighting, which is something.
+
 ## 2016-02-15
 
 I got a working rust module system by finding one rather than working through the tutorial.  Here you go:
