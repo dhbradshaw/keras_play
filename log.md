@@ -1,3 +1,7 @@
+## 2016-02-17
+
+Got racer working with Atom.  Had to install the binary using cargo install racer.  Then I had to point the racer Atom plugin to the racer binary and the rust source code in Atom: settings packages racer
+
 ## 2016-02-16
 
 Spent the 20 minutes just configuring Atom for rust.  Stuck configuring Racer, but have syntax highlighting, which is something.
