@@ -1,3 +1,7 @@
+## 2016-02-18
+
+Started working within the module structure.  Simple bugs slow me down because I haven't learned to interpret the racer error messages rapidly yet.
+
 ## 2016-02-17
 
 Got racer working with Atom.  Had to install the binary using cargo install racer.  Then I had to point the racer Atom plugin to the racer binary and the rust source code in Atom: settings packages racer
