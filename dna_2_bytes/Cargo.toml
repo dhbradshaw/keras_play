@@ -1,5 +1,5 @@
 [package]
 
-name = "phrases"
+name = "dna2bytes"
 version = "0.0.1"
-authors = ["Steve Klabnik <steve@steveklabnik.com>"]
+authors = ["Douglas H. Bradshaw"]
