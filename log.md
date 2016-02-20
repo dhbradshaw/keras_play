@@ -1,3 +1,7 @@
+## 2016-02-19
+
+Got git working.  And modules are working.  Can't push from where I am, but that will come.
+
 ## 2016-02-18
 
 Started working within the module structure.  Simple bugs slow me down because I haven't learned to interpret the racer error messages rapidly yet.
