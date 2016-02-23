@@ -1,3 +1,8 @@
+## 2016-02-22
+
+The main thing that I learned: don't use single quote marks for string literals.
+The other thing: match can use string literals.  If you don't use single quotes.
+
 ## 2016-02-20
 
 Got a function to read in a string.  And git can push at least when I'm home.
