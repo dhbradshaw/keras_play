@@ -2,6 +2,7 @@
 
 The good: Got a new SSD hard drive
 The bad: reinstalling everything today, including rust
+The great: rust installation is fast.  So I was able to complete the list of four base combos in the match statement.
 
 ## 2016-02-22
 
