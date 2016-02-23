@@ -1,3 +1,8 @@
+## 2016-03-23
+
+The good: Got a new SSD hard drive
+The bad: reinstalling everything today, including rust
+
 ## 2016-02-22
 
 The main thing that I learned: don't use single quote marks for string literals.
