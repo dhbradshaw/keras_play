@@ -1,3 +1,7 @@
+## 2016-02-20
+
+Got a function to read in a string.  And git can push at least when I'm home.
+
 ## 2016-02-19
 
 Got git working.  And modules are working.  Can't push from where I am, but that will come.
