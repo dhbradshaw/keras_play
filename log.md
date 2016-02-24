@@ -1,4 +1,8 @@
-## 2016-03-23
+## 2016-02-24
+
+Another day (on this project that means 20 minutes) lost to setting up a text editor.  Compiled Racer and the Atom Racer plugin on the new atom setup.
+
+## 2016-02-23
 
 The good: Got a new SSD hard drive
 The bad: reinstalling everything today, including rust
