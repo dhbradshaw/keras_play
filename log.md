@@ -1,3 +1,7 @@
+## 2016-02-25
+
+I've decided to go about things more directly by focusing on reading the code for leaf.  Today I finished setting up Racer and downloaded Leaf and read through some of the introductory documentation.
+
 ## 2016-02-24
 
 Another day (on this project that means 20 minutes) lost to setting up a text editor.  Compiled Racer and the Atom Racer plugin on the new atom setup.
