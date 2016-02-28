@@ -1,3 +1,7 @@
+## 2016-02-27
+
+Once again, just read code.
+
 ## 2016-02-26
 
 Spent the whole 20 minutes reading leaf docs and code.  I'll probably continue like that for some time since it's a new project and since rust is a new language for me.
