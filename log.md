@@ -1,3 +1,7 @@
+## 2016-02-29
+
+Started working through Euler problems in rust to build up comfort and fluency.  Today I only worked through the first one.  Got stuck because a feature I was trying to use is unstable so I replaced it with a more stable one.
+
 ## 2016-02-27
 
 Once again, just read code.
