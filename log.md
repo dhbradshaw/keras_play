@@ -1,3 +1,7 @@
+## 2016-03-01
+
+Second Euler problem.  Also implemented testing for the first time in rust.
+
 ## 2016-02-29
 
 Started working through Euler problems in rust to build up comfort and fluency.  Today I only worked through the first one.  Got stuck because a feature I was trying to use is unstable so I replaced it with a more stable one.
