@@ -1,3 +1,7 @@
+## 2016-03-02
+
+Third Euler problem.  Read up on iterators and their modifiers and consumers.  There's still a lot more to learn there.
+
 ## 2016-03-01
 
 Second Euler problem.  Also implemented testing for the first time in rust.
