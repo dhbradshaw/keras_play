@@ -1,3 +1,7 @@
+## 2016-03-03
+
+Fourth Euler problem.  Learned about converting to strings.  Starting to like this.
+
 ## 2016-03-02
 
 Third Euler problem.  Read up on iterators and their modifiers and consumers.  There's still a lot more to learn there.
