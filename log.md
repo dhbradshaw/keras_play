@@ -1,3 +1,7 @@
+## 2016-03-04
+
+Not much time this day and problem 5 was so easy that I did it almost by hand and didn't learn much. 
+
 ## 2016-03-03
 
 Fourth Euler problem.  Learned about converting to strings.  Starting to like this.
