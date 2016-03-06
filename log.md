@@ -1,3 +1,7 @@
+## 2016-03-05
+
+Problem 6: to exponentiate, you can't use ^ or **.  Instead, you use 6.pow(2) to get 36.
+
 ## 2016-03-04
 
 Not much time this day and problem 5 was so easy that I did it almost by hand and didn't learn much. 
