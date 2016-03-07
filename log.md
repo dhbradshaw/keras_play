@@ -1,3 +1,17 @@
+## 2016-03-07
+
+Problem 7: Vectors!  To the the length of a vector: v.len().  To get its last value: v[v.len()-1] (or v.pop()).
+When you iterate through a vector, you iterate through an immutable reference.  So,
+
+```
+for prime in &primes {
+            if candidate % prime == 0 {
+                is_prime = false;
+                break
+            }
+        }
+```
+
 ## 2016-03-05
 
 Problem 6: to exponentiate, you can't use ^ or **.  Instead, you use 6.pow(2) to get 36.
