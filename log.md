@@ -1,6 +1,10 @@
 ## 2016-03-08
 
-Problem 7 again.  I added a simple optimization to problem 7 (don't check for factors beyond the square root of the candidate) and found myself unexpectedly fighting the compiler.  At first I thought the main problem was converting between u64 and f64.  But it turned out to be mostly the fact that when you use the "for prime in &primes" contruction the "prime" is actually a reference.  You can't compare it directly with, for example, a u64.
+Problem 7 again.  
+
+I added a simple optimization to problem 7 (don't check for factors beyond the square root of the candidate) and found myself unexpectedly fighting the compiler.  
+
+At first I thought the main problem was converting between u64 and f64.  But it turned out to be mostly the fact that when you use the "for prime in &primes" contruction the "prime" is actually a reference.  You can't compare it directly with, for example, a u64.
 
 ## 2016-03-07
 
