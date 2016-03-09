@@ -1,6 +1,6 @@
 ## 2016-03-09
 
-Problem 7.  The main trick today was converting a string into a sequence of digits.  The solution ended up being this:
+Problem 8.  The main trick today was converting a string into a sequence of digits.  The solution ended up being this:
 
 First, the &str can be converted into an iterable of chars.  (Direct indexing of the string looks at bytes rather than chars.)
 
