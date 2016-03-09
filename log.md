@@ -1,3 +1,26 @@
+## 2016-03-09
+
+Problem 7.  The main trick today was converting a string into a sequence of digits.  The solution ended up being this:
+
+First, the &str can be converted into an iterable of chars.  (Direct indexing of the string looks at bytes rather than chars.)
+
+If s is your string literal (&str), 
+```
+    for (j, ch) in s.chars().enumerate() {
+        v[j % size] = d(ch);
+        max = cmp::max(v.iter().fold(1, |product, n| product * n), max);
+        println!("{}", d(ch))
+    }
+```
+Note the fold for the product is similar to the fold for a sum that I used early since the sum method is in flux.
+
+The actual conversion of a char into a digit was done using the following:
+```
+fn d(ch: char) -> u64 {
+    ch.to_digit(10).unwrap() as u64
+}
+```
+
 ## 2016-03-08
 
 Problem 7 again.  
