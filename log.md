@@ -1,3 +1,7 @@
+## 2016-03-10
+
+Problem 9.  Not much to learn here--it was a pretty simple problem.  But it was an excuse to use bare loops and break for the first time.
+
 ## 2016-03-09
 
 Problem 8.  The main trick today was converting a string into a sequence of digits.  The solution ended up being this:
