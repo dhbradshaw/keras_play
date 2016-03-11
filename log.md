@@ -1,4 +1,9 @@
 ## 2016-03-10
+Problem 10
+
+This problem was nice and simple to solve, but my solution was slow--about a second to sum primes under 2,000,000.  Tomorrow I think I'll come back to it to implement it using a sieve.
+
+## 2016-03-10
 
 Problem 9.  Not much to learn here--it was a pretty simple problem.  But it was an excuse to use bare loops and break for the first time.
 
