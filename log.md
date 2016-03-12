@@ -1,5 +1,9 @@
+## 2016-03-11
+
+The sieve was about 8-fold faster, but it's still slow.  Anyway, it gave me some practice with mutable and immutable referrences during itertion.
+
 ## 2016-03-10
-Problem 10
+Problem 10 
 
 This problem was nice and simple to solve, but my solution was slow--about a second to sum primes under 2,000,000.  Tomorrow I think I'll come back to it to implement it using a sieve.
 
