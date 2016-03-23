@@ -1,3 +1,8 @@
+## 2016-03-22
+Wow, I can't believe it's been 10 days.
+
+I think that I'll pause for awhile on this problem.  I'm using it as a chance to get comfortable with structs and traits.
+
 ## 2016-03-12
 It took some time to learn how to unpack a table of numbers.  Here's what I ended up doing:
 
