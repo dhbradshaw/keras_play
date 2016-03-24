@@ -1,3 +1,6 @@
+## 2016-03-24
+Implemented my first struct and method today and got lost in the world of abstract types and lifetime borrowing.
+
 ## 2016-03-22
 Wow, I can't believe it's been 10 days.
 
