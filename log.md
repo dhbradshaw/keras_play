@@ -1,3 +1,8 @@
+## 2016-03-25
+Read the first in a sequence of three posts for a nice conceptual overview:
+
+http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
+
 ## 2016-03-24
 Implemented my first struct and method today and got lost in the world of abstract types and lifetime borrowing.
 
