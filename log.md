@@ -1,3 +1,6 @@
+## 2016-03-26
+Read the second in the sequence
+
 ## 2016-03-25
 Read the first in a sequence of three posts for a nice conceptual overview:
 
