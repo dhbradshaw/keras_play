@@ -1,3 +1,7 @@
+## 2016-03-28
+
+Read the third and fourth portions of the sequence.  It was awesome.
+
 ## 2016-03-26
 Read the second in the sequence
 
