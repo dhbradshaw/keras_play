@@ -1,3 +1,9 @@
+## 2016-04-11
+Completed ch 1 of 
+
+http://neuralnetworksanddeeplearning.com
+
+
 ## 2016-04-07
 
 Today was something of a red letter day; I found two resources to let me catch up on the big picture in deep learning.  I'm switching all activities to going through them for now:
