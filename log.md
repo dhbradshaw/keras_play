@@ -1,3 +1,13 @@
+## 2016-05-07
+
+Finished going through 
+
+http://neuralnetworksanddeeplearning.com
+
+Starting to work through
+
+http://www.deeplearningbook.org/
+
 ## 2016-04-11
 Completed ch 1 of 
 
